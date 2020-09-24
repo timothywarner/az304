@@ -31,7 +31,7 @@
 
 ### Storage accounts
 
-  * Access
+  * Access / Managed identities
   * Tiering / LCM
 
 ### Databases

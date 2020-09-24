@@ -2,8 +2,7 @@
 
 ## Sweep Up the Shavings
 
-  * Bastion access
-  * Monitoring
+  * Test Always Encrypted
 
 ## Implement Management and Security Solutions
 
