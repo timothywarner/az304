@@ -1,60 +1,56 @@
 # AZ-303 Session 1 Labs
 
-## Implement and Monitor Azure infrastructure
+## Design Identity and Security (27%)
 
-### Identity
+### Authentication
 
-  * Licensing
-  * Custom domains
-  * User security
-    * SSPR
-    * MFA
-      * Conditional Access
-      * Azure AD IdP
-  * Hybrid identity
-    * Synchronization options
-    * Password writeback
-    * Azure AD Connect Health
+  * Azure AD B2B
+  * SSPR
+  * SSO and cloud apps
+  * Conditional Access / IdP / MFA
+  * Azure AD Connect
+
+### Authorization
+
+  * Management scopes
+  * Azure AD PIM
+  * JIT VM Access
+
+### Governance
+
+  * Tagging
+  * Policy
+  * Blueprint
+
+### App Security
+
+  * Managed ID
+  * Key Vault
+
+## Design Data Storage (17%)
 
 ### Storage accounts
 
-  * Services
-    * Blob
-    * File
-  * Authentication and authorization
-    * Azure AD
-    * Keys
-    * SAS
-  * Availability
-    * Replication
-    * Failover
+  * Access
+  * Tiering / LCM
 
-### Virtual machines
+### Databases
 
-  * Dedicated host
-    * Reservations
-  * High availability
-    * Availability zones/sets
-    * Scale sets
-  * Storage
-    * Azure Disk Encryption
+  * Azure SQL DB sizing
+  * Geo-replication
+  * Encryption
+  * Data integration (ADF, Synapse)
 
-### Automated deployment
+## Design Monitoring (17%)
 
-  * Templates
-    * Library
-  * Config management
-    * Extensions
-    * Automation runbooks
+### Cost optimization
+
+  * Cost Management + Billing
+  * Azure Advisor
 
 ### Monitoring
 
-  * Monitor health, availability, performance
-    * Scopes
-      * Azure Status
-      * Azure Service Health
-      * Azure Resource Health
-    * Azure Monitor
-      * Insights
-    * Log Analytics (no queries)
-    * Alerts and Action Groups
+  * Azure Monitor
+  * Log Analytics
+  * Sentinel
+  * Alerting
