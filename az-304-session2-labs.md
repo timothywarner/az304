@@ -2,64 +2,52 @@
 
 ## Sweep Up the Shavings
 
+  * Stored access policy
+  * Azure Policy precedence
   * Test Always Encrypted
 
-## Implement Management and Security Solutions
+## Business Continuity Design
 
-### Workload migration and management
+### Backup and Recovery
 
-  * Azure Migrate
-    * Virtual machines
-  * Azure VMs
-    * Backup / recovery
-    * Disaster recovery
-  * Azure Update Management
+  * VM Backup
+  * VM Site Recovery
 
-### Network load balancing & security
+### High Availability
 
-  * Load balancing
-    * Azure Load Balancer
-    * Azure Application Gateway
-    * Azure Firewall
-    * Azure Front Door
-    * Azure Traffic Manager
-  * Security
-    * NSGs
-    * SERVICE ENDPOINTS!
+  * Storage failover
+  * Autoscaling
+  * Geo-redundancy
 
-### Governance
+### Migration
 
-  * Management scopes
-  * RBAC
-    * Custom roles  !!!!
-  * Azure Policy
-  * Azure Blueprints
+  * Data migration
+  * Server migration
+  * Database migration
 
-## Application Solution Architecture
+## Design Infrastructure
 
-### Application infrastructure and security
+### Compute
 
-  * App Service
-    * ASPs
-    * Managed Identities
-    * Deployment slots
-  * Serverless
-    * Logic Apps
+  * Choose a solution
+    * VM
+    * App Services
     * Functions
+    * WVD
   * Containers
-    * DOCKERFILE syntax
-    * Build image, deploy to ACR and ACI
+    * Service Fabric
+    * ACI
+    * ACR
     * AKS
 
-## Data Platforms
+### Network
 
-### SQL databases
+  * Hybrid cloud
+  * Service/private endpoints
+  * Load-balancing
 
-  * Azure SQL Database
-    * Managed Instance
-  * High availability options
-  * Publish process
+### Applications
 
-  * Azure Cosmos DB
-    * Choose an API
-    * Configure replication
+  * Microservices
+    * Event Grid, Hubs, Functions, webhooks
+  * API Management
