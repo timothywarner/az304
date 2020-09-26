@@ -1,8 +1,8 @@
-## Tim's AZ-303 Certification Study Resources
+## Tim's AZ-304 Certification Study Resources
 
 ### About the exam
 
-* [AZ-303 exam page](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
+* [AZ-304 exam page](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 * [MS Learning Exam Policies and FAQ](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
 * [Microsoft online testing with Pearson Vue](https://docs.microsoft.com/en-us/learn/certifications/online-exams)
 * [Certification Dashboard](https://aka.ms/certdashboard)
@@ -23,9 +23,8 @@
 ### Practice exams
 
 * [MS Learning offers](https://www.microsoft.com/en-us/learning/offers.aspx)
-* [MeasureUp AZ-303](https://www.measureup.com/official-practice-test-az-303-microsoft-azure-architect-technologies.html)
-* [Whizlabs AZ-303](https://www.whizlabs.com/microsoft-azure-certification-az-303/)
-
+* [MeasureUp AZ-304](https://www.measureup.com/official-practice-test-az-304-microsoft-azure-architect-design.html)
+* https://www.whizlabs.com/microsoft-azure-certification-az-304/
 ### Hands-on skill development
 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=solution-architect)
@@ -33,4 +32,3 @@
 * [A Cloud Guru/Linux Academy](https://acloud.guru/learn/eb474ca7-9085-47a3-a4fb-a516b61e11db)
 * [Cloud Academy](https://cloudacademy.com/learning-paths/az-303-exam-preparation-technologies-for-microsoft-azure-architects-1720/)
 * [Pluralsight](https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect)
-
