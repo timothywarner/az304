@@ -11,20 +11,22 @@
 ### Conceptual learning
 
 * [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-* [Pluralsight Azure Architect Skill Path](https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect)
 * [Azure Architecture Center](https://docs.microsoft.com/bs-cyrl-ba/azure/architecture/)
+* [Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 * [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/)
 * [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
 * [Azure Solutions Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
-* [Azure Docs](https://docs.microsoft.com/en-us/azure/)
 * [Azure SLAs](https://azure.microsoft.com/en-us/support/legal/sla/)
 * [Azure preview feature terms of use](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/)
+* [ARM template test toolkit](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/test-toolkit)
+* Azure Quickstart Templates
 
 ### Practice exams
 
 * [MS Learning offers](https://www.microsoft.com/en-us/learning/offers.aspx)
 * [MeasureUp AZ-304](https://www.measureup.com/official-practice-test-az-304-microsoft-azure-architect-design.html)
-* https://www.whizlabs.com/microsoft-azure-certification-az-304/
+* [Whizlabs AZ-304](https://www.whizlabs.com/microsoft-azure-certification-az-304/)
+
 ### Hands-on skill development
 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=solution-architect)

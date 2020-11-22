@@ -1,4 +1,4 @@
-# AZ-303 Session 1 Labs
+# AZ-304 Session 1 Labs
 
 ## Design Identity and Security (27%)
 
@@ -21,6 +21,7 @@
   * Tagging
   * Policy
   * Blueprint
+  * NEW Resource Graph
 
 ### App Security
 

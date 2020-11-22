@@ -1,10 +1,8 @@
-# AZ-303 Session 2 Labs
+# AZ-304 Session 2 Labs
 
 ## Sweep Up the Shavings
 
-  * Stored access policy
-  * Azure Policy precedence
-  * Test Always Encrypted
+  *
 
 ## Business Continuity Design
 
@@ -12,6 +10,7 @@
 
   * VM Backup
   * VM Site Recovery
+  * NEW Workload geo-redundancy
 
 ### High Availability
 
@@ -45,9 +44,15 @@
   * Hybrid cloud
   * Service/private endpoints
   * Load-balancing
+  * NEW Service/private endpoints
+  * DMZs/NVAs
+  * Virtual WAN
 
 ### Applications
 
   * Microservices
     * Event Grid, Hubs, Functions, webhooks
   * API Management
+  * NEW Data Box
+  * NEW Azure DevOps
+  * NEW Azure Automation
