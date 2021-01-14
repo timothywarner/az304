@@ -41,7 +41,7 @@
     * Types
         * Managed Instance
         * Virtual Machine
-        * SSIS Integration Runtime
+        * SSIS Integration Runtime w/ ADF
         * Always Encrypted w/ determ vs non-determ encryption
     * Query Store/Performance Insight
     * Database auditing
@@ -121,3 +121,22 @@
 * Azure Batch
 * Functions
     * Pricing options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
