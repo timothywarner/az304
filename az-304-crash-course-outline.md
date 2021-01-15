@@ -73,6 +73,18 @@
 
 ## DAY 2
 
+### Sweeping up the shavings
+
+* Storage account
+    * Tiering
+    * Lifecycle management
+    * Legal hold
+
+* Monitoring
+    * Diagnostics
+    * Log Analytics
+    * Insights
+
 
 ### Business Continuity Design
 
