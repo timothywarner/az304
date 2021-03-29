@@ -1,7 +1,7 @@
 # Resource Groups and Taxonomic Tags
 
 # See existing tags on a resource group
-(Get-AzResourceGroup -Name 'oreilly').Tags
+(Get-AzResourceGroup -Name 'az304').Tags
 
 # See existing tags for a particular resource
 (Get-AzResource -ResourceId /subscriptions/<subscription-id>/resourceGroups/oreilly/providers/Microsoft.Storage/storageAccounts/<storage-name>).Tags
@@ -19,12 +19,12 @@
 (Get-AzResource -TagName Dept).Name
 
 # Add tags to RG without existing tags
-Set-AzResourceGroup -Name oreilly -Tag @{ Dept = "IT"; Environment = "Test" }
+Set-AzResourceGroup -Name az304 -Tag @{ Dept = "IT"; Environment = "Test" }
 
 # Add tags to RG that has existing tags
-$tags = (Get-AzResourceGroup -Name oreilly).Tags
+$tags = (Get-AzResourceGroup -Name az304).Tags
 $tags.Add("Status", "Approved")
-Set-AzResourceGroup -Tag $tags -Name oreilly
+Set-AzResourceGroup -Tag $tags -Name az304
 
 # Apply tags from an RG to its resources, preserving existing tags
 $group = Get-AzResourceGroup "oreilly"
