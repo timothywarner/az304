@@ -2,6 +2,7 @@
 
 ### About the exam
 
+* [Microsoft Learn blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
 * [AZ-304 exam page](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 * [MS Learning Exam Policies and FAQ](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
 * [Microsoft online testing with Pearson Vue](https://docs.microsoft.com/en-us/learn/certifications/online-exams)

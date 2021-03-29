@@ -20,7 +20,7 @@
 
   * Tagging
   * Policy
-  * Blueprint
+  * BLUEPRINTS
   * NEW Resource Graph
 
 ### App Security
@@ -34,6 +34,9 @@
 
   * Access / Managed identities
   * Tiering / LCM
+
+MONITORING
+
 
 ### Databases
 
