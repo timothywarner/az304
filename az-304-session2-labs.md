@@ -30,6 +30,8 @@
   * App Services
   * Containers
 
+MONITORING!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## Event-driven architectures
 
   * Event Hub / IoT Hub

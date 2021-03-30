@@ -21,7 +21,7 @@
 * [Azure SLAs](https://azure.microsoft.com/en-us/support/legal/sla/)
 * [Azure preview feature terms of use](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/)
 * [ARM template test toolkit](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/test-toolkit)
-* Azure Quickstart Templates
+* [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 
 ### Practice exams
 
@@ -33,6 +33,10 @@
 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=solution-architect)
 * [Azure Citadel](https://azurecitadel.com/)
-* [A Cloud Guru/Linux Academy](https://acloud.guru/learn/eb474ca7-9085-47a3-a4fb-a516b61e11db)
-* [Cloud Academy](https://cloudacademy.com/learning-paths/az-303-exam-preparation-technologies-for-microsoft-azure-architects-1720/)
+* [A Cloud Guru](https://acloudguru.com/course/az-304-microsoft-azure-architect-design)
+* [Cloud Academy](https://cloudacademy.com/learning-paths/az-304-exam-preparation-designing-a-microsoft-azure-architecture-1724/)
 * [Pluralsight](https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect)
+* [Pluralsight Cloud Labs](https://www.pluralsight.com/product/cloud-labs)
+* [Meetup.com](https://www.meetup.com/)
+* [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
+* [Azure Pass offer](https://www.microsoftazurepass.com/)
