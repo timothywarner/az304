@@ -2,7 +2,41 @@
 
 ## Sweep Up the Shavings
 
-  *
+  * ARM tutorial link
+  * No AZ-300
+  * Cap starter / whatif
+  * Hands-on ideas
+
+## Data Platform
+
+  * Storage accounts
+  * Azure SQL DB
+  * Cosmos DB
+
+## Network integration
+
+  * endpoints
+  * Firewall
+  * hybrid cloud options
+
+## Infrastructure Design
+
+  * VM high availability
+  * load balancing
+    * VM extension
+    *
+  * backup
+  * ASR
+  * App Services
+  * Containers
+
+## Event-driven architectures
+
+  * Event Hub / IoT Hub
+  * Stream Analytics
+  * Function / logic apps
+
+
 
 ## Business Continuity Design
 
