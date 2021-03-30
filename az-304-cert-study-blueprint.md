@@ -11,6 +11,7 @@
 
 ### Conceptual learning
 
+* [Tim's ARM Templates Tutorial](https://timwinfo-my.sharepoint.com/:x:/g/personal/tim_timw_info/EQRooL1BhnRMjaIx6WEovRYBDXbzHOI1CrtpNls3zesDHw?rtime=rMc-0Xbz2Eg)
 * [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
 * [Azure Architecture Center](https://docs.microsoft.com/bs-cyrl-ba/azure/architecture/)
 * [Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
