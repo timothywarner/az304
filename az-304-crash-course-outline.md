@@ -5,51 +5,51 @@
 ### Identity and Security Design
 
 * Authentication
-    * Azure AD B2C
-    * App registrations
-    * Managed Identity
-        * Instance Metadata Service
-    * Hybrid identity
-        * IdFix
-        * Azure AD Connect Health
-        * AAD DS
-    * Conditional Access
-        * Trusted Locations
+  * Azure AD B2C
+  * App registrations
+  * Managed Identity
+    * Instance Metadata Service
+  * Hybrid identity
+    * IdFix
+      * Azure AD Connect Health
+      * AAD DS
+  * Conditional Access
+    * Trusted Locations
 * Authorization
-    * Custom RBAC roles
-    * Azure AD PIM
-        * Access reviews
-    * Key Vault
+  * Custom RBAC roles
+  * Azure AD PIM
+    * Access reviews
+  * Key Vault
 
 
 ### Storage Data Design
 
 * Raw data migration
-    * Data Box
-    * AzCopy
+  * Data Box
+  * AzCopy
 * Storage accounts
-    * Replication options
-    * SAS tokens
-    * Tiers
-    * Legal hold access policy
-    * Azure File Sync
-    * Table and queue services
+  * Replication options
+  * SAS tokens
+  * Tiers
+  * Legal hold access policy
+  * Azure File Sync
+  * Table and queue services
 * Virtual machines
-    * Disk caching options
-    * Premium vs standard options/SLA
+  * Disk caching options
+  * Premium vs standard options/SLA
 * Azure SQL Database
-    * Types
-        * Managed Instance
-        * Virtual Machine
-        * SSIS Integration Runtime w/ ADF
-        * Always Encrypted w/ determ vs non-determ encryption
-    * Query Store/Performance Insight
-    * Database auditing
-    * SQLInsights
-    * SQL Analytics
-    * Elastic pools
-    * Long-term backup retention
-    * Always Encrypted
+* Types
+  * Managed Instance
+  * Virtual Machine
+  * SSIS Integration Runtime w/ ADF
+  * Always Encrypted w/ determ vs non-determ encryption
+* Query Store/Performance Insight
+* Database auditing
+* SQLInsights
+* SQL Analytics
+* Elastic pools
+* Long-term backup retention
+* Always Encrypted
 
 
 ## #Monitoring Design
@@ -59,15 +59,15 @@
 * Log Analytics
 * Resource Graph
 * App Insights
-    * Service Map
+  * Service Map
 * Cost Management
-    * Reservations
-    * HUB
-    * Budgets
-    * Advisor
+  * Reservations
+  * HUB
+  * Budgets
+  * Advisor
 * Alerts
-    * Rules and Action Groups
-    * Function app notifications
+  * Rules and Action Groups
+  * Function app notifications
 
 
 
