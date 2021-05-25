@@ -1,6 +1,6 @@
 # AZ-304 Crash Course Outline
 
-## SESSION 1
+## DAY 1
 
 ### Identity and Security Design
 
@@ -21,7 +21,6 @@
     * Access reviews
   * Key Vault
 
-
 ### Storage Data Design
 
 * Raw data migration
@@ -37,37 +36,12 @@
 * Virtual machines
   * Disk caching options
   * Premium vs standard options/SLA
-* Azure SQL Database
-* Types
-  * Managed Instance
-  * Virtual Machine
-  * SSIS Integration Runtime w/ ADF
-  * Always Encrypted w/ determ vs non-determ encryption
-* Query Store/Performance Insight
-* Database auditing
-* SQLInsights
-* SQL Analytics
-* Elastic pools
-* Long-term backup retention
-* Always Encrypted
 
 
-## #Monitoring Design
 
-* Enable diagnostics collection
-* Activity log
-* Log Analytics
-* Resource Graph
-* App Insights
-  * Service Map
-* Cost Management
-  * Reservations
-  * HUB
-  * Budgets
-  * Advisor
-* Alerts
-  * Rules and Action Groups
-  * Function app notifications
+
+
+
 
 
 
@@ -75,80 +49,67 @@
 
 ### Sweeping up the shavings
 
-* Storage account
-    * Tiering
-    * Lifecycle management
-    * Legal hold
+* Practice exam link in blueprint doc
+* ADE recovery after disk export
+* O'Reilly playback control
 
-* Monitoring
-    * Diagnostics
-    * Log Analytics
-    * Insights
+### Infrastructure Design
 
+* Azure DevOps
+  * Branch security
+  * ARM templates
+    * Parts Unlimited
+    * MyHealthAKS
+* Blueprints
+  * Scoping (Management Groups)
+* APIM
+  * Authorization levels
+  * Policies
+* VNet integration
+  * Service endpoints
+* Networking
+  * App Gateway with WAF
+  * IPv4 subnetting
+  * ExpressRoute / S2S VPN
+* Data pipelines
+  * ADF
+  * Event Grid
+  * Event Hub
+  * Service Bus
+  * Service Fabric
+  * Azure Redis Cache
+* VMS
+  * SKU differences
+* Azure Batch
+* Functions
+  * Pricing options
 
 ### Business Continuity Design
 
 * High availability
-    * VMs
-        * VMSS auto-scale
-        * Fault, update domains
-        * ASR in the Recovery Services vault
-        * Backup and recovery in the RS vault
-    * Networks
-        * CDN
-        * App Gateway
-        * Traffic Manager
-* Database migration
-    * DMA, DMS
+  * VMs
+    * VMSS auto-scale
+    * Fault, update domains
+    * ASR in the Recovery Services vault
+    * Backup and recovery in the RS vault
+  * Networks
+    * CDN
+    * App Gateway
+    * Traffic Manager
 
+### #Monitoring Design
 
-### Infrastructure Design
+* Azure status
+* Service Health
+* Resource Health
+* Resource Graph / All Resources
+* Enable diagnostics collection
+* Activity log
+* Log Analytics
+* App Insights
+  * Service Map
+* Cost Management
 
-* Blueprints
-    * Scoping (Management Groups)
-* Policy and exclusions
-* APIM
-    * Authorization levels
-    * Policies
-* VNet integration
-    * Service endpoints
-* Networking
-    * App Gateway with WAF
-    * IPv4 subnetting
-    * ExpressRoute / S2S VPN
-* Data pipelines
-    * ADF
-    * Event Grid
-    * Event Hub
-    * Service Bus
-    * Service Fabric
-    * Azure Redis Cache
-* Containers
-    * AKR
-        * SKU differences
-    * ACI
-    * AKS
-* VMS
-    * SKU differences
-* Azure Batch
-* Functions
-    * Pricing options
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Alerts
+  * Rules and Action Groups
+  * Function app notifications
