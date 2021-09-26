@@ -32,6 +32,7 @@
 
 ### Monitoring Design
 
+* Activity Log
 * Log routing
 * Event routing
 
