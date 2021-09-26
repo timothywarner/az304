@@ -2,6 +2,84 @@
 
 ## DAY 1
 
+### Infrastructure Design
+
+* Class diagram
+* Well-Architected Framework
+* Networks
+  * Virtual WAN / Hub-spoke
+  * Hybrid cloud
+  * Firewalls
+  * Private Link
+* Migration
+  * Cloud Adoption Framework
+  * Azure Migrate
+* App Architecture
+  * Orchestration
+    * ARM/Bicep
+    * Azure DevOps
+  * Options
+    * App Service / Functions
+    * Logic Apps
+    * API Management
+
+### Business Continuity Design
+
+* Backup and recovery
+  * Backup vault vs RS vault
+* High availability
+  * ASR
+
+### Monitoring Design
+
+* Log routing
+* Event routing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Identity and Security Design
 
 * Authentication

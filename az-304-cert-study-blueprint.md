@@ -11,9 +11,12 @@
 * [Microsoft Certification Dashboard](https://aka.ms/certdashboard)
 * [Tim's online testing help video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
 * [Exam scoring and score reports](https://docs.microsoft.com/en-us/learn/certifications/exam-scoring-reports)
+* [Pearson VUE Grievance](https://home.pearsonvue.com/microsoft/contact)
+* [Microsoft Policies and FAQs](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 
 ## Conceptual learning
 
+* [AZ-304 Class Topology](https://lucid.app/lucidchart/5b4214cf-b00b-400d-80ff-c15572f57904/view?page=0_0#)
 * [Tim's ARM templates tutorial](https://timwinfo-my.sharepoint.com/:x:/g/personal/tim_timw_info/EQRooL1BhnRMjaIx6WEovRYBDXbzHOI1CrtpNls3zesDHw?rtime=rMc-0Xbz2Eg)
 * [Adam Marczak's ARM templates tutorial](https://www.youtube.com/watch?v=Ge_Sp-1lWZ4&t=876s)
 * [Sam Cogan's ARM templates tutorial](https://www.youtube.com/watch?v=9EpBiud48Ao)
@@ -38,6 +41,30 @@
 * [Whizlabs AZ-304](https://www.whizlabs.com/microsoft-azure-certification-az-304/)
 * [Tim's Practice Exam Comparison video](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
 
+## Building Your toolset
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* Extensions
+  * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+  * [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
+  * [ARM Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+  * [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
+  * [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep)
+* [PowerShell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
+* [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps)
+* [Azure Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install)
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+* [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
+* A[zure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
+* [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10)
+* [Tim's Recommended Visual Studio Code Tutorial](https://vscode.pro/)
+
+## Azure Bicep
+
+* [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+* [im's Frankenstein project](https://github.com/timothywarner/frankenstein)
+* [Azure Bicep tutorial](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep)
+
 ## Hands-on skill development
 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=solution-architect)
@@ -49,3 +76,4 @@
 * [Azure user group search](https://www.meetup.com/)
 * [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
 * [Azure Pass offer](https://www.microsoftazurepass.com/)
+* [Azure Log Analytics Query Playground](https://portal.loganalytics.io/demo)
