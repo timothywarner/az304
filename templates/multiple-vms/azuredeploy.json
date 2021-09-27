@@ -12,6 +12,7 @@
             "type": "int",
             "minValue": 2,
             "maxValue": 5,
+            "defaultValue": 2,
             "metadata": {
                 "description": "Number of VMs to deploy, limit 5 since this sample is using a single storage account"
             }
@@ -60,11 +61,11 @@
         },
         "vNetName": {
             "type": "string",
-            "defaultValue": "oreilly-vnet-spoke"
+            "defaultValue": "oreilly-vnet"
         },
         "addressRange": {
             "type": "string",
-            "defaultValue":"10.1.0.0/16"
+            "defaultValue":"10.10.0.0/16"
         },
         "subnetName": {
             "type": "string",
@@ -72,7 +73,7 @@
         },
         "subnetPrefix": {
             "type": "string",
-            "defaultValue": "10.1.0.0/24"
+            "defaultValue": "10.10.1.0/24"
         },
         "avSetName": {
             "type": "string",

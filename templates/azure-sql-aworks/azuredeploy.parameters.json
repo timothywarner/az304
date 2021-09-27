@@ -3,7 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serverName": {
-            "value": "pssql7837"
+            "value": "twaz303sqlserver1"
+        },
+        "secondaryServerName": {
+            "value": "twaz303sqlserver2"
+        },
+        "sqlDBName": {
+            "value": "aworks"
         },
         "administratorLogin": {
             "value": "tim"

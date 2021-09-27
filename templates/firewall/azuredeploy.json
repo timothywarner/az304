@@ -4,7 +4,7 @@
     "parameters": {
         "vNetName": {
             "type": "string",
-            "defaultValue": "test-vnet",
+            "defaultValue": "oreilly-vnet",
             "metadata": {
                 "description": "Target virtual network name"
             }
@@ -25,7 +25,7 @@
         },
         "vNetResourceGroup": {
             "type": "string",
-            "defaultValue": "test",
+            "defaultValue": "[resourceGroup().name]",
             "metadata": {
                 "description": "Resource group of the parent virtual network"
             }
@@ -55,7 +55,7 @@
                                     "name": "appRuleName1",
                                     "description": "appRuleDescription",
                                     "sourceAddresses": [
-                                        "10.0.0.4"
+                                        "10.10.4.4"
                                     ],
                                     "protocols": [
                                         {
@@ -86,7 +86,7 @@
                                     "name": "natRuleName1",
                                     "description": "natRuleDescription",
                                     "sourceAddresses": [
-                                        "10.0.0.4"
+                                        "10.10.4.4"
                                     ],
                                     "destinationAddresses": [
                                         "[reference(resourceId('Microsoft.Network/publicIPAddresses', parameters('publicIPName'))).ipAddress]"
@@ -117,10 +117,10 @@
                                     "name": "networkRuleName",
                                     "description": "networkRuleDescription",
                                     "sourceAddresses": [
-                                        "10.0.0.4"
+                                        "10.10.4.4"
                                     ],
                                     "destinationAddresses": [
-                                        "10.0.1.4"
+                                        "10.10.4.4"
                                     ],
                                     "destinationPorts": [
                                         "1"
