@@ -30,56 +30,28 @@
 * High availability
   * ASR
 
+
+
+
+
+
+
+
+
+
+
+## DAY 2
+
+* Logic Apps
+* Azure Virtual Desktop
+* Azure Migrate
+
 ### Monitoring Design
 
 * Activity Log
 * Log routing
 * Event routing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Alerts
 
 ### Identity and Security Design
 
@@ -115,6 +87,16 @@
 * Virtual machines
   * Disk caching options
   * Premium vs standard options/SLA
+
+
+
+
+
+
+
+
+
+
 
 
 

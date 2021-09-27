@@ -58,12 +58,15 @@
 * A[zure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 * [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10)
 * [Tim's Recommended Visual Studio Code Tutorial](https://vscode.pro/)
+* [Lucidchart](https://www.lucidchart.com/pages/)
+* [Sandro's Azure Visio Stencils and Icons](https://blog.sandro-pereira.com/2021/06/21/microsoft-integration-and-azure-stencils-pack-for-visio-new-version-available-v7-2-0/)
 
 ## Azure Bicep
 
 * [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 * [im's Frankenstein project](https://github.com/timothywarner/frankenstein)
 * [Azure Bicep tutorial](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep)
+* [Tim's Frankenstein project](https://github.com/timothywarner/frankenstein)
 
 ## Hands-on skill development
 
