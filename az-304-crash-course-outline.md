@@ -43,6 +43,7 @@
 ## DAY 2
 
 * Logic Apps
+* App Gateway
 * Azure Virtual Desktop
 * Azure Migrate
 
@@ -51,6 +52,8 @@
 * Activity Log
 * Log routing
 * Event routing
+  * Event Hub
+  * Stream Analytics
 * Alerts
 
 ### Identity and Security Design
@@ -70,7 +73,7 @@
   * Custom RBAC roles
   * Azure AD PIM
     * Access reviews
-  * Key Vault
+  * AZURE POLICY
 
 ### Storage Data Design
 
@@ -84,10 +87,10 @@
   * Legal hold access policy
   * Azure File Sync
   * Table and queue services
-* Virtual machines
-  * Disk caching options
-  * Premium vs standard options/SLA
-
+* Azure SQL
+  * Always Encrypted
+* Cosmos DB
+  * Consistency levels
 
 
 
@@ -174,3 +177,4 @@
 * Alerts
   * Rules and Action Groups
   * Function app notifications
+
